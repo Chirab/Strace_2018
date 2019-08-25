@@ -2,4 +2,4 @@ The goal is to reproduce exactly the "strace" command wich is a linux command. S
 
 I didn't do the return value.
 
-PS : Forget about the malloc of 100, i was tired.
+PS : Forget about the malloc of 100
